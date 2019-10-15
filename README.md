@@ -22,5 +22,6 @@ Usage: SharpEventLog.exe -4624
 
 ### Cobalt Strike
 
+```
 execute-assembly /path/to/SharpEventLog.exe
-
+```
