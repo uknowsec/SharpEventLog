@@ -5,6 +5,7 @@
 
 ## 使用说明
 
+### cmd.exe
 ```
 > SharpEventLog.exe
 
@@ -15,5 +16,11 @@ Usage: SharpEventLog.exe -4624
        SharpEventLog.exe -4625
 ```
 
+![](https://github.com/uknowsec/SharpEventLog/blob/master/images.png)
 
+
+
+### Cobalt Strike
+
+execute-assembly /path/to/SharpEventLog.exe
 
